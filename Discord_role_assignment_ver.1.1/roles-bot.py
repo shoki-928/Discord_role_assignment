@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-bot_token = "OTEzMzI2NzAyMDM2NDEwMzY5.YZ83xg.LAbrgjsj3Q0s8AnVCXnGXun_Omw"
+bot_token = "TOKEN ID"
 
 # ロールID
 Minecraft_role = 914446401189081148
